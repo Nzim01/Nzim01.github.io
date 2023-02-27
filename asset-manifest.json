@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.ad9ce02d.js",
+    "static/js/787.26c102b4.chunk.js": "/static/js/787.26c102b4.chunk.js",
+    "static/media/closeup-hacker.mp4": "/static/media/closeup-hacker.c62d1247e1d3afb0f041.mp4",
+    "static/media/squad-speakers.mp4": "/static/media/squad-speakers.cedd50b07ca728effdc0.mp4",
+    "static/media/self-watercolor.png": "/static/media/self-watercolor.64c7746fd5d4925531f3.png",
+    "static/media/EventSpase - Cover.png": "/static/media/EventSpase - Cover.f7937a7f1928ab360a3b.png",
+    "static/media/Webspase - Cover.png": "/static/media/Webspase - Cover.d79743a10827274ddc4e.png",
+    "static/media/Almanac - Cover.png": "/static/media/Almanac - Cover.2b2429ac890949d43b41.png",
+    "static/media/Laptop-Desk-Dark.png": "/static/media/Laptop-Desk-Dark.c56ab69f89ba1a083871.png",
+    "static/media/self-cartoonizer.png": "/static/media/self-cartoonizer.a9148b7b4f07144ed1b2.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.ad9ce02d.js.map": "/static/js/main.ad9ce02d.js.map",
+    "787.26c102b4.chunk.js.map": "/static/js/787.26c102b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad9ce02d.js"
+  ]
+}
