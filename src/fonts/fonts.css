@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: 'Comic Book Font';
+    src: url('./comic-book/ComicBook.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alpha Clouds';
+    src: url('./AlphaClouds.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Beanbag';
+    src: url('./beanbag-font/Beanbag-PKo9E.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Action Man';
+    src: url('./action-man/ActionMan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chopic 3D';
+    src: url('./chopic-3d-font/Chopic3D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Komika Sketch';
+    src: url('./komika-sketch/KOMIKSKT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Komika Title';
+    src: url('./komika-title/KOMTIT__.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('./argentum-sans/ArgentumSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans Light';
+    src: url('./argentum-sans/ArgentumSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans Bold';
+    src: url('./argentum-sans/ArgentumSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans Black';
+    src: url('./argentum-sans/ArgentumSans-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

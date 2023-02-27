@@ -1,0 +1,68 @@
+import { GlobalColors } from "../../../../styles/Colors";
+
+export const styles = {
+    container: {
+        position: 'relative',
+        width: '100%',
+        height: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: GlobalColors.background,
+        color: GlobalColors.text,
+    },
+    headerText: {
+        fontSize: '3em',  
+        fontFamily: 'Action Man',
+        backgroundColor: 'purple',
+    },
+    bodyText: {
+        fontSize: '2rem',
+        fontFamily: 'Comic Book Font',
+    },
+    stripContainer: {
+        position: 'relative',
+        width: '90%',
+        height: '50%',
+        display: 'flex',
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        // backgroundColor: GlobalColors.background,
+        // color: GlobalColors.text,
+    },
+    quad1: {
+        // flex: 1,
+        width: '32%',
+        height: '100%',
+        backgroundColor: 'black',
+        // border: '5px solid #222222',
+        borderWidth: '3px 4px 3px 5px',
+        borderRadius: '95% 4% 92% 5%/4% 95% 6% 95%',
+        transform: 'rotate(2deg)',
+        objectFit: 'cover',
+    },
+    quad2: {
+        // flex: 1,
+        width: '32%',
+         height: '100%',
+        backgroundColor: 'black',
+        // border: '5px solid #222222',
+        borderWidth: '3px 3px 5px 5px',
+        borderRadius: '4% 95% 6% 95%/95% 4% 92% 5%',
+        transform: 'rotate(-2deg)',
+        objectFit: 'cover',
+    },
+    quad3: {
+        // flex: 1,
+        width: '32%',
+        height: '100%',
+        backgroundColor: 'black',
+        // border: '5px solid #222222',
+        borderWidth: '5px 3px 3px 5px',
+        borderRadius: '95% 4% 97% 5%/4% 94% 3% 95%',
+        transform: 'rotate(2deg)',
+        objectFit: 'cover',
+    }
+}
