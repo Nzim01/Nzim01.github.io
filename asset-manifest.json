@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb7bed65.css",
+    "main.css": "/static/css/main.8e82b114.css",
     "main.js": "/static/js/main.ad9ce02d.js",
     "static/js/787.26c102b4.chunk.js": "/static/js/787.26c102b4.chunk.js",
     "static/media/closeup-hacker.mp4": "/static/media/closeup-hacker.c62d1247e1d3afb0f041.mp4",
@@ -12,23 +12,31 @@
     "static/media/Laptop-Desk-Dark.png": "/static/media/Laptop-Desk-Dark.c56ab69f89ba1a083871.png",
     "static/media/self-cartoonizer.png": "/static/media/self-cartoonizer.a9148b7b4f07144ed1b2.png",
     "static/media/KOMIKSKT.ttf": "/static/media/KOMIKSKT.9ee3a83cd764f3d5f974.ttf",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/ArgentumSans-Bold.ttf": "/static/media/ArgentumSans-Bold.c735ee022e070850abe7.ttf",
     "static/media/ArgentumSans-Light.ttf": "/static/media/ArgentumSans-Light.db95959b4488ef85f936.ttf",
     "static/media/ArgentumSans-Black.ttf": "/static/media/ArgentumSans-Black.4b42848feb27107450f7.ttf",
     "static/media/ArgentumSans-Regular.ttf": "/static/media/ArgentumSans-Regular.3b707471ed712a48a267.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
     "static/media/ComicBook.otf": "/static/media/ComicBook.d567fcfde5152a030491.otf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
     "static/media/AlphaClouds.ttf": "/static/media/AlphaClouds.663723cc9471589e4ba5.ttf",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
     "static/media/Beanbag-PKo9E.ttf": "/static/media/Beanbag-PKo9E.9dda2c822e423cbda1b9.ttf",
     "static/media/Chopic3D.ttf": "/static/media/Chopic3D.8e9f9db6ace90917019d.ttf",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.146404900f7550a9719d.ttf",
     "static/media/KOMTIT__.ttf": "/static/media/KOMTIT__.2564b065c22c0601270a.ttf",
     "static/media/ActionMan.ttf": "/static/media/ActionMan.97c72a8e2b852e09b76f.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/index.html",
-    "main.eb7bed65.css.map": "/static/css/main.eb7bed65.css.map",
+    "main.8e82b114.css.map": "/static/css/main.8e82b114.css.map",
     "main.ad9ce02d.js.map": "/static/js/main.ad9ce02d.js.map",
     "787.26c102b4.chunk.js.map": "/static/js/787.26c102b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb7bed65.css",
+    "static/css/main.8e82b114.css",
     "static/js/main.ad9ce02d.js"
   ]
 }
