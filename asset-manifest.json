@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.8e82b114.css",
-    "main.js": "/static/js/main.ad9ce02d.js",
+    "main.js": "/static/js/main.6007d28e.js",
     "static/js/787.26c102b4.chunk.js": "/static/js/787.26c102b4.chunk.js",
+    "static/media/space-trippy.mov": "/static/media/space-trippy.ffb7d7123db2362d4ea2.mov",
     "static/media/closeup-hacker.mp4": "/static/media/closeup-hacker.c62d1247e1d3afb0f041.mp4",
+    "static/media/comic-intro-short.mp4": "/static/media/comic-intro-short.fdb103aa16291ee10982.mp4",
     "static/media/squad-speakers.mp4": "/static/media/squad-speakers.cedd50b07ca728effdc0.mp4",
     "static/media/self-watercolor.png": "/static/media/self-watercolor.64c7746fd5d4925531f3.png",
     "static/media/EventSpase - Cover.png": "/static/media/EventSpase - Cover.f7937a7f1928ab360a3b.png",
@@ -32,11 +34,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/index.html",
     "main.8e82b114.css.map": "/static/css/main.8e82b114.css.map",
-    "main.ad9ce02d.js.map": "/static/js/main.ad9ce02d.js.map",
+    "main.6007d28e.js.map": "/static/js/main.6007d28e.js.map",
     "787.26c102b4.chunk.js.map": "/static/js/787.26c102b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e82b114.css",
-    "static/js/main.ad9ce02d.js"
+    "static/js/main.6007d28e.js"
   ]
 }
