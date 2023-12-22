@@ -95,10 +95,10 @@ function Qualifications({children}) {
           <section style={detailsPart1}>
           <h2 style={designerSectionSubHeader}>{engineerQuals.subHeader1}</h2>
           {
-            ((engineerQuals.content2.type === "text") ?
-            <p>{engineerQuals.content2.copy}</p> :
+            ((engineerQuals.content1.type === "text") ?
+            <p>{engineerQuals.content1.copy}</p> :
             <ul>
-              {(engineerQuals.content2.copy).map(item => <li key={item}>{item}</li>)}
+              {(engineerQuals.content1.copy).map(item => <li key={item}>{item}</li>)}
             </ul>
             )
           }
